@@ -1,0 +1,20 @@
+
+  {
+    "video_games": [
+      {
+        "id": 1,
+        "name": "Super Nintendo",
+        "current_bid": 150.0,
+        "year": 1990,
+        "starting_bid": 100.0
+      },
+      {
+        "id": 2,
+        "name": "Mega Drive",
+        "current_bid": 200.0,
+        "year": 1989,
+        "starting_bid": 150.0
+      }
+    ]
+  }
+  
